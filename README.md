@@ -11,5 +11,6 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/HimanshuSingh924/SQL/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/HimanshuSingh924/SQL/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/HimanshuSingh924/SQL/tree/master/0620-not-boring-movies) |
+| [1193-monthly-transactions-i](https://github.com/HimanshuSingh924/SQL/tree/master/1193-monthly-transactions-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HimanshuSingh924/SQL/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
