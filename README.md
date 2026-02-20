@@ -13,5 +13,6 @@
 | [0620-not-boring-movies](https://github.com/HimanshuSingh924/SQL/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/HimanshuSingh924/SQL/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/HimanshuSingh924/SQL/tree/master/1193-monthly-transactions-i) |
+| [1280-students-and-examinations](https://github.com/HimanshuSingh924/SQL/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HimanshuSingh924/SQL/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
